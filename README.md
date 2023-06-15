@@ -2,7 +2,7 @@
 <h3> <p align="center">Olá, me chamo JONYSSON </p></h3>
 <p align="center">Estudante FULL-STACK, SENAC-PE/PORTO DIGITAL</p>
  <p align="left">Trabalho com: Prevenção de perdas </p>
- <p align="left">Estou estudando para uma futura transoção de carreira</p>
+ <p align="left">Estou estudando para uma futura transição de carreira</p>
   
  <p align="center">Ao encontar a oportunidade, moldar-se para não perdê la</p>
  
