@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johosantos&label=Profile%20views&color=0e75b6&style=flat" alt="johosantos" /> </p>
 <h3> <p align="center">Olá, me chamo JONYSSON </p></h3>
 <p align="center">Estudante FULL-STACK, SENAC-PE/PORTO DIGITAL</p>
- <p align="left">Trabalho com: Prevenção de perdas </p>
+ <p align="left">Trabalho com: Auxiliar de deposito </p>
  <p align="left">Estou estudando para uma futura transição de carreira</p>
   
  <p align="center">Ao encontar a oportunidade, moldar-se para não perdê la</p>
