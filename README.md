@@ -4,7 +4,7 @@
  <p align="left">Trabalho com: Auxiliar de deposito </p>
  <p align="left">Estou estudando para uma futura transição de carreira</p>
   
- <p align="center">Ao encontar a oportunidade, moldar-se para não perdê la</p>
+ <p align="center">Ao encontrar a oportunidade, moldar-se para não perdê la</p>
  
  Caso queira me ajudar com livros, dicas, canais no youtube para me aprofundar no estudo
  <h3 align="left">entre em contato comigo:</h3>
